@@ -1,7 +1,7 @@
+*.iml
 *.jar
 
 .gradle/
 .idea/
 build/
 out/
-kotlin-matrix.iml

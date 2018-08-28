@@ -1,4 +1,4 @@
-package com.ichipsea.kotlin.matrix
+package io.github.matrix4k
 
 import java.util.ArrayList
 

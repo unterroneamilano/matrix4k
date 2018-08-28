@@ -1,4 +1,4 @@
-package com.ichipsea.kotlin.matrix
+package io.github.matrix4k
 
 operator fun <M: Number, N: Number> Matrix<M>.plus(other: Matrix<N>): Matrix<Double> {
     if (rows != other.rows || cols != other.cols)
