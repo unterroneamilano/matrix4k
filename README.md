@@ -1,5 +1,5 @@
 # kotlin-matrix
-A matrix library for Kotlin language
+A matrix library for Kotlin language.
 
 ## Status
 Under development, API may change.
